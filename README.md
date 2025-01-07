@@ -12,9 +12,9 @@ Data extraction and transformation using SQL.
 
 Visualization of insights using Power BI dashboards.
 
-Dataset Description
+**Dataset Description**
 
-**The dataset contains records of loan applicants and includes the following key attributes:**
+The dataset contains records of loan applicants and includes the following key attributes:
 
 Loan_ID: Unique identifier for each loan.
 
